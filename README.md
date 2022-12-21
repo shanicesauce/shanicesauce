@@ -12,3 +12,4 @@ ShaniceSauce/shanicesauce
 - 😄 Pronouns: they/ she
 - ⚡ Fun fact: I'm a Capricorn ☉ Taurus ☾ Virgo ↑.
 
+[![shanicesauce's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanicesauce)](https://github.com/shanicesauce/github-readme-stats)
