@@ -7,7 +7,7 @@ ShaniceSauce/shanicesauce
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on javascript and react based projects
 - 🤔 I’m looking for help with Improving my skills and learning more about all things Javascript
-- 📫 How to reach me: https://www.linkedin.com/in/shanice-sauceda-106221255/
+- 📫 How to reach me: www.linkedin.com/in/shanicesauceda or visit my portfolio! https://shanicesauce.github.io/spa-portfolio/#/
 - 😄 Pronouns: they/ she
 - ⚡ Fun fact: I'm a Bharani Nakshatra.
 
